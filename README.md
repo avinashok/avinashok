@@ -17,7 +17,7 @@ Outside of work, I enjoy:
 If you have any message/feedback or an innovative idea to share/collaborate on, let me know [here](https://docs.google.com/forms/d/e/1FAIpQLSc7GsQz8hkT3Em6ABkh2EW9lULyL6qEf0_ufrmQuQPvWBU4Ww/viewform?usp=pp_url). 
 
 
-| <a href="https://github.com/avinashok/TextCategorization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashok&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Avinash's github stats" /></a> | <a href="https://github.com/avinashok/TextCategorization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashok&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/avinashok"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashok&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Avinash's github stats" /></a> | <a href="https://github.com/avinashok"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashok&layout=compact&theme=buefy&hide_border=true" /></a> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <br />
