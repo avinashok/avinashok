@@ -23,9 +23,14 @@ If you have any message/feedback or an innovative idea to share/collaborate on, 
 <br />
 <br />
 
+<a href="https://avinashok.com/">
+  <img align="right" alt="Avinash OK | Website" width="20px" src="https://raw.githubusercontent.com/avinashok/avinash-readme/master/assets/aok.png" />
+</a>
+
 <a href="https://twitter.com/avinash_ok">
   <img align="right" alt="Avinash OK | Twitter" width="21px" src="https://raw.githubusercontent.com/avinashok/avinash-readme/master/assets/twitter.svg" />
 </a>
-<a href="https://avinashok.com/">
-  <img align="right" alt="Avinash OK | Website" width="20px" src="https://raw.githubusercontent.com/avinashok/avinash-readme/master/assets/aok.png" />
+
+<a href="https://www.facebook.com/Avinash.O.K/">
+  <img align="right" alt="Avinash OK | Facebook" width="20px" src="https://raw.githubusercontent.com/avinashok/avinash-readme/master/assets/facebook.png" />
 </a>
